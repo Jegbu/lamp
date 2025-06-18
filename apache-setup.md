@@ -1,4 +1,4 @@
-##Apache Setup -EC2 Test!#
+## Apache Setup
 
 Insalled Apache using sudo yum install httpd -y
 Started Apache with: sudo 'systemctl start httpd'
