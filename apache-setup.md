@@ -15,3 +15,4 @@ Started with: sudo mysql_secure_installation
 -Installed PHP using: sudo dnf install -y php php-mysql php-fpm
 -Restarted Apache: 'sudo systemctl restart httpd' 
 - Verified PHP is working by accessing index.php in browser
+![image](https://github.com/user-attachments/assets/741c2a98-1443-4cfa-8e90-6503f81b4ec8)
